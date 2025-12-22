@@ -4,7 +4,7 @@ class Day7{
         System.out.println("Happy Birthday to you!!");
         System.out.println("Happy birthday to you dear"+ name);
         System.out.printf("you are %d old",age);
-    }
+    } 
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         System.out.println("Birthday Boy Name:");
