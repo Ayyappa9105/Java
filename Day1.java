@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Day1 {
     public static void main(String args[]) {
-
+        
         // variables
         String name;
         int age;

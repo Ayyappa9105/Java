@@ -1,7 +1,7 @@
 import java.util.*;
 
 class Day5 {
-    public static void main(String args[]) {
+    public static void main(String args[]) { 
 
         Random r = new Random();
         Scanner sc = new Scanner(System.in);
